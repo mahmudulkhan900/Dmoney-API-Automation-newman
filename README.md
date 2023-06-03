@@ -24,7 +24,7 @@
   - Newman
   
 ## Project Documentation
-  - https://documenter.getpostman.com/view/19869486/2s8ZDbXM3b
+  -[ https://documenter.getpostman.com/view/19869486/2s8ZDbXM3b](https://documenter.getpostman.com/view/27427115/2s93m7Vg5K)
   
 ## Test Cases
   - https://docs.google.com/spreadsheets/d/1dbFwdEAtWv86cOGhvtEaidMH5R-d9Z2Zm6hqX2pU6w4/edit?usp=sharing
